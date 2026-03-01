@@ -1,6 +1,6 @@
 # DYNAMIC GREEN LIGHT TRAFFIC SYSTEM
 **AI-Powered Smart Traffic Management**  
-Raspberry Pi 5 · YOLOv8 · T-Junction Demo · Version 1.0 · 2025
+Raspberry Pi 5 · YOLOv8 · T-Junction Demo · Version 1.0 · 2026
 
 ---
 
@@ -444,7 +444,7 @@ MIT License - Feel free to use for educational and commercial purposes.
 ## 👥 Contributors
 
 **Dynamic Green Light Traffic System**  
-Version 1.0 · 2025
+Version 1.0 · 2026
 
 ---
 
