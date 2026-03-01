@@ -1,0 +1,6 @@
+train: ./rebalanced/train/images
+val: ./rebalanced/val/images
+test: ./rebalanced/test/images
+
+nc: 9
+names: ['ambulance', 'fire truck', 'car', 'threewheel', 'bus', 'truck', 'motorbike', 'van', 'pedestrian']

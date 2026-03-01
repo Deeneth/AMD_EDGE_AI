@@ -1,0 +1,10 @@
+outputs/
+*.pt
+*.pth
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.jpg
+*.jpeg
+*.png
+!README.md
